@@ -26,6 +26,9 @@ Run `npm install moment`
 2. Copy all files in /build to /dist
 3. Deploy Hosting: `firebase deploy`
 
+## Firebase structure
+![Image of Firebase Structure](https://github.com/lingyingyang/react-redux-firebase-world/imgs/React-Redux-Firebase-Project_Database Design.jpg)
+
 ## Issues
 ### react-redux-firebase v3 migration
 #### 1st solution
