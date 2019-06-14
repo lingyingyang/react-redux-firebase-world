@@ -1,5 +1,5 @@
 # React-Redux-Firebase-World
-[Click here to have a try]('https://react-redux-firebase-world.web.app/')
+[Click here to have a try](https://react-redux-firebase-world.web.app/)
 
 ## Developing Project
 Run `npm install react-router-dom`
@@ -29,7 +29,7 @@ Run `npm install moment`
 ## Issues
 ### react-redux-firebase v3 migration
 #### 1st solution
-[V3 migration guide]('http://docs.react-redux-firebase.com/history/v3.0.0/docs/v3-migration-guide.html') | [stackoverflow]('https://stackoverflow.com/questions/53872757/react-redux-v6-a-v3-version-of-react-redux-firebase-is-required')
+[V3 migration guide](http://docs.react-redux-firebase.com/history/v3.0.0/docs/v3-migration-guide.html) | [stackoverflow](https://stackoverflow.com/questions/53872757/react-redux-v6-a-v3-version-of-react-redux-firebase-is-required)
 
 we can update it to v3 with `npm install react-redux-firebase@next`
 
