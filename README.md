@@ -27,7 +27,7 @@ Run `npm install moment`
 3. Deploy Hosting: `firebase deploy`
 
 ## Firebase structure
-![Image of Firebase Structure](https://github.com/lingyingyang/react-redux-firebase-world/imgs/React-Redux-Firebase-Project_Database Design.jpg)
+![Image of Firebase Structure](./imgs/React-Redux-Firebase-Project_Database_Design.jpg)
 
 ## Issues
 ### react-redux-firebase v3 migration
