@@ -18,13 +18,13 @@ Run `npm install moment`
 1. Run `npm install -g firebase-tools`
 2. Login Firebase: `firebase login`
 3. Initiate your project: `firebase init`
-4. Deploy your functions: `firebase deploy`
+4. Deploy your functions: `firebase deploy --only functions`
 
 ## Firebase - Hosting settings
 
 1. Build production: `npm run build`
 2. Copy all files in /build to /dist
-3. Deploy Hosting: `firebase deploy`
+3. Deploy Hosting: `firebase deploy` or `firebase deploy --only hosting`
 
 ## Firebase structure
 ![Image of Firebase Structure](./imgs/React-Redux-Firebase-Project_Database_Design.jpg)
