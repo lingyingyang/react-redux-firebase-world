@@ -11,12 +11,9 @@ class ProjectList extends React.Component {
             projects: props.projects,
             pageOfItems: []
         }
-
-        // bind function in constructor instead of render (https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-no-bind.md)
-        this.onChangePage = this.onChangePage.bind(this);
     }
 
-    onChangePage(pageOfItems) {
+    onChangePage = (pageOfItems) => {
         // update state with new page of items
         this.setState({ pageOfItems: pageOfItems });
     }
